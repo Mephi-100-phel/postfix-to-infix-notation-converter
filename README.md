@@ -3,7 +3,7 @@
 
 *This project is a product of a practical task for my algorithms and data structures course at uni*
 
-This program converts math formulas from postfix notation into infix notation using stack (with limitaions - see [Usage And Examples](@usage-and-examples)).
+This program converts math formulas from postfix notation into infix notation using stack (with limitaions - see [Usage And Examples](#usage-and-examples)).
 
 This program has 2 implementations - list-based stack and vector-based stack. But algorithm for both of these implementations is the same.
 ## Author
